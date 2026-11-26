@@ -65,9 +65,9 @@ The table below lists leading managed multiplayer platforms and Backend-as-a-Ser
 
 ## 💻 Open-Source Netcode & Game Server Frameworks
 
-The table below lists top-tier open-source game servers, UDP networking libraries, and rollback netcode implementations, sorted in **descending order by GitHub star count**.
+The table below lists top-tier open-source game servers, UDP networking libraries, and rollback netcode implementations, sorted in **descending order by GitHub Stars_Count**.
 
-| Project / Repository 📦 | GitHub Stars ⭐ | Language / Tech 💻 | Focus & Architecture 🎯 |
+| Project / Repository 📦 | GitHub_Stars ⭐ | Language / Tech 💻 | Focus & Architecture 🎯 |
 | :--- | :--- | :--- | :--- |
 | **[Socket.IO](https://github.com/socketio/socket.io)** | [![Stars](https://img.shields.io/github/stars/socketio/socket.io?style=social&color=white)](https://github.com/socketio/socket.io/stargazers) | TypeScript / JS | Bidirectional, low-latency event-based protocol for browser web games, HTML5 `.io` titles, and casual turn-based multiplayer. |
 | **[Google FlatBuffers](https://github.com/google/flatbuffers)** | [![Stars](https://img.shields.io/github/stars/google/flatbuffers?style=social&color=white)](https://github.com/google/flatbuffers/stargazers) | C++ / Multi | Zero-copy cross-platform serialization library used in AAA network protocols to minimize packet deserialization overhead. |
